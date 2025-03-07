@@ -1,0 +1,39 @@
+.body {
+  font-family: "Poppins", serif;
+}
+
+.banner{
+  background-image: url(../css/Home.png);
+  background-size:cover;
+  background-repeat: no-repeat;
+  padding: 230px 0;
+}
+
+.skills-padding{
+padding: 70px 0;
+}
+
+@media (max-width: 526px)
+{
+  .banner{
+    padding: 100px 0;
+  }
+}
+
+.banner h1 {
+  color: white; 
+  font-size: 36px; 
+  font-weight: bold; 
+  text-align: center; 
+}
+
+.banner h4 {
+  color: white; 
+  font-size: 36px; 
+  font-weight: bold; 
+  text-align: center; 
+}
+
+
+
+
